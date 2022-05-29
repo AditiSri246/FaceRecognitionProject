@@ -25,3 +25,6 @@ under Environment variables.
 6. Clone my git repository to a directory in your device using : git clone command.
 
 7. Run 'App.py' in your Pycharm IDE to run the application.
+
+## Note
+To connect the python files with MySQL database, I have used user="root", password="Aditi@246_Sri" in **View.py**, **ViewAttendees.py**, **RegistrationForm.py** and **FaceRecognitionSystem.py**. You are required to change these credentials as per your system.
